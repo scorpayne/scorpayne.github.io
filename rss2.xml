@@ -8,7 +8,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>花有重开日，人无再少年</description>
-    <pubDate>Thu, 31 Aug 2017 15:05:56 GMT</pubDate>
+    <pubDate>Thu, 31 Aug 2017 15:12:53 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -44,7 +44,7 @@
 <p><img src="https://raw.githubusercontent.com/scorpayne/MarkdownPhotos/master/blog/20170831114434.png" alt=""></p>
 <p><img src="https://raw.githubusercontent.com/scorpayne/MarkdownPhotos/master/blog/20170831114522.png" alt=""></p>
 <p><strong>3.重启sublime，重载插件</strong></p>
-<h2 id="三、演示"><a href="#三、演示" class="headerlink" title="三、演示"></a>三、演示</h2><p><code>常用快捷键</code></p>
+<h2 id="演示"><a href="#演示" class="headerlink" title="演示"></a>演示</h2><p><code>常用快捷键</code></p>
 <blockquote>
 <ul>
 <li>Ctrl+Shift+H:格式化代码</li>
